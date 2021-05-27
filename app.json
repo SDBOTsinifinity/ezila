@@ -33,19 +33,19 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1100231654"
+         "value": "1391755824"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "Damantha_Jasinghe"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "1100231654"
+         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       },
-"GRAND_IMG": {
-         "description": "Image shows when hit /start",
+"GRAND_IMG ": {
+         "description": "Telegraph files only:-@TheTelegraphUpBot. Image shows when hit /start",
          "value": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg"    
       },
       "GBAN_LOGS": {
@@ -80,12 +80,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "1100231654"
+         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -93,9 +93,9 @@
          "value": ""
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+         "description": "The Heroku App URL",
          "required": false,
-         "value": ""
+         "value": "https://<appname>.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
@@ -105,7 +105,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1100231654"
+         "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       }
    },
    "keywords": [
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
+   "logo": "https://telegra.ph/file/066343aa558e9348abadb.jpg",
    "name": "Hector bot",
    "repository": "https://github.com/slbotofficial11/Hector"
 }
