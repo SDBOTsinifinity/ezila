@@ -44,7 +44,7 @@
          "required": false,
          "value": "1391755824 1548967589 1725052009 1758509403 1848277863"
       },
-"GRAND_IMG ": {
+"GRAND_IMG": {
          "description": "Telegraph files only:-@TheTelegraphUpBot. Image shows when hit /start",
          "value": "https://telegra.ph/file/066343aa558e9348abadb.jpg"    
       },
