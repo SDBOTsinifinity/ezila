@@ -29,7 +29,7 @@ All other credits mentioned on top of scripts
 
 Should any be missing kindly let us know at [𝖘𝖑 𝖍𝖎𝖙 𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝖇𝖔𝖙](https://t.me/slhitbotofficial) or simply submit a pull request on the readme.
 
-## The Anki Vector bot the telegram Bot Project
+## Hector bot the telegram Bot Project
 The Advanced Branch (For PRO's)
 
 𝖘𝖑 𝖍𝖎𝖙 𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑 𝖇𝖔𝖙(advvanced)
