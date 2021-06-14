@@ -2,7 +2,7 @@
 
 # sl bot Official Based on Python Telegram Bot
 <p align="center">
-  <img src="https://telegra.ph/file/066343aa558e9348abadb.jpg">
+  <img src="https://telegra.ph/file/9452cefc1f8aee5c4400c.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
