@@ -37,4 +37,4 @@ SL Bots(advvanced)
 ## Special Credits
 - [sadew](https://github.com/sadew451) - A Co-Developer of Project
 - [Damantha](https://github.com/Damantha126) - A Co-Developer of Project
-- [Dihan](https://github.com/dihanrandila1) - A Co-Developer of Project
+
