@@ -1,8 +1,8 @@
-## Im ezila Robot
+## Im Thunder GoHelp Bot
 
-# sl bots Based on Python Telegram Bot
+# Thunder GoHelp Bot is a Powerful Group Management Bot
 <p align="center">
-  <img src="https://telegra.ph/file/7bb512fd4c29eb943a13a.jpg">
+  <img src="https://telegra.ph/file/166d6f00c76d77154e994.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
